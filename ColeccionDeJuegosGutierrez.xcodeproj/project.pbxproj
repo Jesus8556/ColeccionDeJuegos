@@ -14,6 +14,7 @@
 		9DAC924E2AE86BBA00B747FC /* ColeccionDeJuegosGutierrez.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9DAC924C2AE86BBA00B747FC /* ColeccionDeJuegosGutierrez.xcdatamodeld */; };
 		9DAC92502AE86BBB00B747FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DAC924F2AE86BBB00B747FC /* Assets.xcassets */; };
 		9DAC92532AE86BBB00B747FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DAC92512AE86BBB00B747FC /* LaunchScreen.storyboard */; };
+		9DAC925B2AE8783C00B747FC /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAC925A2AE8783C00B747FC /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9DAC924F2AE86BBB00B747FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DAC92522AE86BBB00B747FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DAC92542AE86BBB00B747FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DAC925A2AE8783C00B747FC /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9DAC92512AE86BBB00B747FC /* LaunchScreen.storyboard */,
 				9DAC92542AE86BBB00B747FC /* Info.plist */,
 				9DAC924C2AE86BBA00B747FC /* ColeccionDeJuegosGutierrez.xcdatamodeld */,
+				9DAC925A2AE8783C00B747FC /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegosGutierrez;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DAC925B2AE8783C00B747FC /* JuegosViewController.swift in Sources */,
 				9DAC92482AE86BBA00B747FC /* ViewController.swift in Sources */,
 				9DAC924E2AE86BBA00B747FC /* ColeccionDeJuegosGutierrez.xcdatamodeld in Sources */,
 				9DAC92442AE86BBA00B747FC /* AppDelegate.swift in Sources */,
